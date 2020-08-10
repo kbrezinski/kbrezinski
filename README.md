@@ -10,7 +10,7 @@ I have a personal blog where I write about Politics, Life and Human Intelligence
 
 :point_right: Complexity Analysis for Feature Extraction
 
-The bulk of my code base is not added to Github yet, and may or may not be added depeding on what is proprietary for my research or not.
+The bulk of my code base is not added to Github yet, and may or may not be added depending on what is proprietary for my research or not.
 
 ### Correspondence
 
