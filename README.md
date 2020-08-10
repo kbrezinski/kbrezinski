@@ -1,16 +1,16 @@
 # `$ whoami`
 
-Hi there :wave: My name is Kenneth Brezinski, I am currently a Ph.D. student at the University of Manitoba. My research focuses on the development and application of machine learning techniques for pre-emptive cyber security defense.
+Hi there :wave: My name is Kenneth Brezinski, I am currently a Ph.D. student at the University of Manitoba. My research focuses on the development and application of machine learning techniques for pre-emptive cyber security defense. I am currently Intern Lead for a multi-year collaboration with Canadian Tire Corporation. My long term goals include working as a Machine Learning Engineering and leading my own projects over a wide variety of industries. 
 
-I have a personal blog where I 
+I have a personal blog where I write about Politics, Life and Human Intelligence. A link will be added once the transition to a new server is made.
 
-
-### My other research focuses:
+### My other research focus areas:
 
 :point_right: Tribal Topology for Particle Swarm Optimization [(video)](https://www.youtube.com/watch?v=XDp48-GkkeA&t=599s) 
 
 :point_right: Complexity Analysis for Feature Extraction
 
+The bulk of my code base is not added to Github yet, and may or may not be added depeding on what is proprietary for my research or not.
 
 ### Correspondence
 
