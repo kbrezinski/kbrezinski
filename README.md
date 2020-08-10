@@ -1,16 +1,21 @@
-### Hi there 👋
+# `$ whoami`
 
-<!--
-**kbrezinski/kbrezinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there :wave: My name is Kenneth Brezinski, I am currently a Ph.D. student at the University of Manitoba. My research focuses on the development and application of machine learning techniques for pre-emptive cyber security defense.
 
-Here are some ideas to get you started:
+I have a personal blog where I 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My other research focuses:
+
+:point_right: Tribal Topology for Particle Swarm Optimization [(video)](https://www.youtube.com/watch?v=XDp48-GkkeA&t=599s) 
+
+:point_right: Complexity Analysis for Feature Extraction
+
+
+### Correspondence
+
+- My resume is summarized at my :link: [LinkedIn profile](https://www.linkedin.com/in/kenneth-brezinski-b65a05136/)  
+
+- My full publication record can be found at my :mortar_board: [ResearchGate](https://www.researchgate.net/profile/Kenneth_Brezinski2)  
+
+- I can be reached at my work email for any professional correspondence: :e-mail: brezinkk@myumanitoba.ca
